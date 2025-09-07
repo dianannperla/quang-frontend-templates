@@ -7,6 +7,6 @@
     "start": "node index.js"
   },
   "keywords": ["frontend", "templates", "responsive"],
-  "author": "Tên của bạn",
+  "author": "Your Name Here",
   "license": "MIT"
 }
