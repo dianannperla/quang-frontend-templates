@@ -1,0 +1,12 @@
+{
+  "name": "quang-frontend-templates",
+  "version": "1.0.0",
+  "description": "Bộ sưu tập mẫu giao diện frontend tối ưu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["frontend", "templates", "responsive"],
+  "author": "Tên của bạn",
+  "license": "MIT"
+}
